@@ -34,9 +34,10 @@ export default function Page() {
         </div>
 
         <h1 className="text-4xl font-bold text-red-600 text-center lowercase mb-4">padble</h1>
-        <p className="text-center text-gray-700 mb-6 text-sm">
-          entrez un numéro de siren pour<br />obtenir une notation d’entreprise
-        </p>
+        <p className="text-center text-gray-700 mb-6 text-sm font-bold uppercase">
+  ENTREZ UN NUMÉRO DE SIREN POUR<br />OBTENIR UNE NOTATION D’ENTREPRISE
+</p>
+
 
         <div className="space-y-4">
           <div className="relative">

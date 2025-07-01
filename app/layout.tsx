@@ -2,7 +2,7 @@ import '../styles/globals.css'
 
 
 export const metadata = {
-  title: 'Padble',
+  title: 'Pabble',
   description: 'Notation d’entreprise',
 }
 
